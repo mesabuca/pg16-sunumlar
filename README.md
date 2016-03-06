@@ -88,13 +88,13 @@
     <tr>
         <td>Crystal Programlama Dili</td>
         <td>Serdar Doğruyol</td>
-        <td><a href="#" target="_blank">Sunum</a></td>
+        <td><a href="http://slides.com/sdogruyol/crystal-2" target="_blank">Sunum</a></td>
         <td><a href="#" target="_blank">Video</a></td>
     </tr>
     <tr>
         <td>Git ve Versiyonlama</td>
         <td>Lemi Orhan Ergin</td>
-        <td><a href="#" target="_blank">Sunum</a></td>
+        <td><a href="http://www.slideshare.net/lemiorhan/git-bildiiniz-gibi-deil" target="_blank">Sunum</a></td>
         <td><a href="#" target="_blank">Video</a></td>
     </tr>
     <tr>
