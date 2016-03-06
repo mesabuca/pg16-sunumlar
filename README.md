@@ -100,7 +100,7 @@
     <tr>
         <td>Developer vs Designer</td>
         <td>Burak Yetgin, Halil İbrahim Nuroğlu, Emre Efendioğlu & Uğur Özyılmazel</td>
-        <td>Sunum</td>
+        <td>Sunum Yok</td>
         <td>Video</td>
     </tr>
     </tbody>
