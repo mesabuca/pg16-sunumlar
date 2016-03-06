@@ -52,7 +52,7 @@
     <tr>
         <td>Yazılım Mühendisi Olarak Uzaktan(Remote) Nasıl Çalışılır?</td>
         <td>Fatih Arslan</td>
-        <td><a href="#" target="_blank">Sunum</a></td>
+        <td><a href="https://speakerdeck.com/farslan/uzaktan-calismak" target="_blank">Sunum</a></td>
         <td><a href="#" target="_blank">Video</a></td>
     </tr>
     <tr>
