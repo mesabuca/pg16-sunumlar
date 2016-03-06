@@ -1,5 +1,3 @@
-<h1>Programlama Günleri 2016 Sunumları</h1>
-
 <table>
     <thead>
     <tr>
@@ -19,7 +17,7 @@
     <tr>
         <td>Bulut Bilişim ve Türkiye'de Startup</td>
         <td>Fırat Küçük</td>
-        <td><a href="#" target="_blank">Sunum</a></td>
+        <td><a href="http://slides.com/codvio/pg/" target="_blank">Sunum</a></td>
         <td><a href="#" target="_blank">Video</a></td>
     </tr>
     <tr>
@@ -43,7 +41,7 @@
     <tr>
         <td>Microsoft ile Linux'un Arası Nasıl?</td>
         <td>Daron Yöndem</td>
-        <td><a href="#" target="_blank">Yok</a></td>
+        <td><a href="#" target="_blank">Sunum Yok</a></td>
         <td><a href="#" target="_blank">Video</a></td>
     </tr>
     <tr>
