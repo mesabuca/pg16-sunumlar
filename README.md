@@ -41,7 +41,7 @@
     <tr>
         <td>Microsoft ile Linux'un Arası Nasıl?</td>
         <td>Daron Yöndem</td>
-        <td><a href="#" target="_blank">Sunum Yok</a></td>
+        <td>Sunum Yok</td>
         <td>Video</td>
     </tr>
     <tr>
