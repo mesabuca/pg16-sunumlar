@@ -82,7 +82,7 @@
     <tr>
         <td>JavaScript - NodeJS</td>
         <td>Gökmen Göksel</td>
-        <td>Sunum</td>
+        <td><a href="https://github.com/gokmen/js-nodejs" target="_blank">Sunum</a></td>
         <td>Video</td>
     </tr>
     <tr>
