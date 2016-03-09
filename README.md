@@ -23,7 +23,7 @@
     <tr>
         <td>Şeylerin Önlenemez Yükselişi(IoT)</td>
         <td>Güray Yıldırım</td>
-        <td>Sunum</td>
+        <td><a href="http://www.slideshare.net/gryyldrm/3-programlama-gnleri-iot-sunumu" target="_blank">Sunum</a></td>
         <td>Video</td>
     </tr>
     <tr>
