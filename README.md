@@ -35,7 +35,7 @@
     <tr>
         <td>Web Uygulamalarında Ödül Avcılığı</td>
         <td>Gökmen Güreşçi</td>
-        <td>Sunum</td>
+        <td><a href="https://speakerdeck.com/gokmenguresci/web-uygulamalarinda-odul-avciligi" target="_blank">Sunum</a></td>
         <td>Video</td>
     </tr>
     <tr>
