@@ -29,7 +29,7 @@
     <tr>
         <td>Graph Databases - Neo4j</td>
         <td>Fatih Erikli</td>
-        <td>Sunum</td>
+        <td><a href="http://www.slideshare.net/lahavlevelaislabonita/dugumkume-42428350" target="_blank">Sunum</a></td>
         <td>Video</td>
     </tr>
     <tr>
