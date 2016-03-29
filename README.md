@@ -76,7 +76,7 @@
     <tr>
         <td>Python - Django Web Framework'ü</td>
         <td>Uğur Özyılmazel</td>
-        <td>Sunum</td>
+        <td><a href="https://speakerdeck.com/vigo/django" target="_blank">Sunum</a></td>
         <td>Video</td>
     </tr>
     <tr>
